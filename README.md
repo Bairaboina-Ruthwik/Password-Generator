@@ -98,7 +98,7 @@ password generated: aK9dL2xP
 
 ## 👨‍💻 Author
 
-Your Name
+Bairaboina Ruthwik
 
 ---
 
